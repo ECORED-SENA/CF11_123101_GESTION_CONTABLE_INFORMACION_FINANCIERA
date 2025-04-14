@@ -5,7 +5,8 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 1
-      h1 Titulo de primer nivel
+      h1 Legislación laboral
+    p La legislación laboral es el conjunto de principios, acciones y normas que regulan, de forma directa o indirecta, las relaciones entre empleadores y trabajadores, así como las de estos con el Estado.
  
 </template>
 
