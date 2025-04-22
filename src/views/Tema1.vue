@@ -2,35 +2,35 @@
 .curso-main-container.pb-3
   BannerInterno
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5.mb-5
-    .titulo-principal.color-acento-contenido
+    .titulo-principal.color-acento-contenido(data-aos="flip-up")
       .titulo-principal__numero
         span 1
       h1 Legislación laboral
-    p.mb-4 La legislación laboral es el conjunto de principios, acciones y normas que regulan, de forma directa o indirecta, las relaciones entre empleadores y trabajadores, así como las de estos con el Estado.
+    p.mb-4(data-aos="fade-right") La legislación laboral es el conjunto de principios, acciones y normas que regulan, de forma directa o indirecta, las relaciones entre empleadores y trabajadores, así como las de estos con el Estado.
     .row.bg-c3.mb-4
       .col-12
         .px-5
-          figure.mb-4
+          figure.mb-4(data-aos="fade-down")
             .video
               iframe(width="560" height="315" src="https://www.youtube.com/embed/wGMMPB3ZdXM?si=mtMiafjeNFBLVGro" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
           .row
-            .col-lg-8.order-2.order-lg-1
+            .col-lg-8.order-2.order-lg-1(data-aos="fade-right")
               .p-4.bg-c4
                 p Legislación laboral es el conjunto de principios, acciones y normas que regulan directa e indirectamente las relaciones entre empleadores y trabajadores, y de estos con el Estado, con el objeto de garantizar los derechos fundamentales de los trabajadores y la protección del trabajo. Todo lo anterior tiene el único fin de lograr la paz social, siendo esta la finalidad del código laboral colombiano. (Ginnamarce, 2014)
                 p En este componente se abordará la normatividad requerida para el reconocimiento de los beneficios a los empleados en Colombia.
                 p.mb-0 Para apropiarse del conocimiento de la normatividad vigente, en cuanto a la legislación laboral en Colombia, la cual debe ser aplicada en cualquier contexto laboral de las empresas, es necesario realizar una revisión del Código Sustantivo de Trabajo (CST) y los cambios reflejados en el Decreto 1072 de 2015.
-            .col-lg-4.order-1.order-lg-2.mb-4.mb-lg-0
+            .col-lg-4.order-1.order-lg-2.mb-4.mb-lg-0(data-aos="fade-left")
               figure
                 img(src='@/assets/curso/tema1/img2.png', alt='', style="width: 400px").m-auto
-    p.mb-4 #[b A continuación, se observa la estructura del Código Sustantivo del Trabajo (CST).]
+    p.mb-4(data-aos="fade-right") #[b A continuación, se observa la estructura del Código Sustantivo del Trabajo (CST).]
     .row.bg-c3.mb-4
       .col-12
         .px-5
           .row
-            .col-lg-6.d-none.d-lg-block
+            .col-lg-6.d-none.d-lg-block(data-aos="fade-right")
               figure
                 img(src='@/assets/curso/tema1/img3.png', alt='', style="width: 600px").m-auto
-            .col-lg-6
+            .col-lg-6(data-aos="fade-left")
               .p-4.bg-c5
                 p.mb-0 #[b TÍTULO PRELIMINAR]
                 p #[b PRINCIPIOS GENERALES]
@@ -71,7 +71,7 @@
                 p.mb-0 VIGILANCIA Y CONTROL
                 p.mb-0 #[b TITULO II.]
                 p.mb-0 DISPOSICIONES FINALES
-    .tarjeta.bg-c6.p-3
+    .tarjeta.bg-c6.p-3(data-aos="fade-down")
       .row.justify-content-around.align-items-center
         .col-auto
           img(src="@/assets/curso/tema1/img1.svg")
@@ -89,17 +89,17 @@
     .titulo-segundo.color-acento-contenido
       h2 1.1 Política contable
     .row.mb-4
-      .col-lg-10.order-2.order-lg-1
+      .col-lg-10.order-2.order-lg-1(data-aos="fade-right")
         p Es un conjunto de principios, reglas y procedimientos específicos que son adoptados por una entidad para preparar y realizar los estados o documentos contables. (Moncayo, 2017)
         p.mb-0 Consultando políticas contables de entidades, se encuentra la siguiente estructura, la cual es definida por las Normas Internacionales de la Información Financiera (NIIF):
-      .col-lg-2.order-1.order-lg-2.mb-4.mb-lg-0
+      .col-lg-2.order-1.order-lg-2.mb-4.mb-lg-0(data-aos="fade-left")
         figure
           img(src='@/assets/curso/tema1/img2.svg', alt='', style="width: 140px").m-auto
     .row
-      .col-lg-5.mb-4.mb-lg-0
+      .col-lg-5.mb-4.mb-lg-0(data-aos="fade-right")
         figure
           img(src='@/assets/curso/tema1/img4.png', alt='', style="width: 470px").m-auto
-      .col-lg-7
+      .col-lg-7(data-aos="fade-left")
         .p-4.bg-c7
           ul.lista-ul--color.mb-0
             li.d-flex
@@ -162,7 +162,7 @@
               img(src='@/assets/curso/tema1/img5.png', alt='', style='width: 60px; position: relative; left: -25px').m-auto
           .col.ps-0
             h3.mb-0 Definición contrato de trabajo
-    .bloque-texto-g.bloque-texto-g--inverso.color-secundario.p-3.p-sm-4.p-md-5.mb-5
+    .bloque-texto-g.bloque-texto-g--inverso.color-secundario.p-3.p-sm-4.p-md-5.mb-5(data-aos="fade-down")
       .bloque-texto-g__img(
         :style="{'background-image': `url(${require('@/assets/curso/tema1/img6.png')})`}"
       )
@@ -179,8 +179,8 @@
               img(src='@/assets/curso/tema1/img5.png', alt='', style='width: 60px; position: relative; left: -25px').m-auto
           .col.ps-0
             h3.mb-0 Elementos del contrato de trabajo
-    p Todo contrato de trabajo deberá contener una serie de elementos que lo configuran legalmente; elementos que son esenciales en la concertación o convenio que pactan el empleador y trabajador, configurando la naturaleza de la relación laboral entre las partes.
-    p.mb-4 #[b El Artículo 23 del CST señala los tres elementos que contiene un contrato de trabajo:]
+    p(data-aos="fade-right") Todo contrato de trabajo deberá contener una serie de elementos que lo configuran legalmente; elementos que son esenciales en la concertación o convenio que pactan el empleador y trabajador, configurando la naturaleza de la relación laboral entre las partes.
+    p.mb-4(data-aos="fade-right") #[b El Artículo 23 del CST señala los tres elementos que contiene un contrato de trabajo:]
     .row.bg-c9.mb-5
       .col-12
         .p-5
@@ -230,8 +230,8 @@
                     img(src='@/assets/curso/tema1/img5.png', alt='', style='width: 60px; position: relative; left: -25px').m-auto
                 .col.ps-0
                   h3.mb-0 Tipos de contrato de trabajo
-          p.mb-4 Los contratos de trabajo en Colombia se pueden clasificar en:
-          .row.justify-content-center.mb-4
+          p.mb-4(data-aos="fade-right") Los contratos de trabajo en Colombia se pueden clasificar en:
+          .row.justify-content-center.mb-4(data-aos="fade-down")
             .col-md-6.col-lg-3.mb-4.mb-lg-0
               .p-4.bg-c11
                 figure.mb-3
@@ -268,8 +268,8 @@
                     .px-2.py-1
                       p.mb-0 #[b A término indefinido]
                 p.text-center.mb-0 Es el contrato que no establece duración del contrato. (Carmen y Gudiño, 2014, p. 16)
-          p.mb-4 #[b Existen otros contratos de trabajo, los cuales se relacionan a continuación:]
-          .row.justify-content-center.mb-4
+          p.mb-4(data-aos="fade-right") #[b Existen otros contratos de trabajo, los cuales se relacionan a continuación:]
+          .row.justify-content-center.mb-4(data-aos="fade-down")
             .col-md-6.col-lg-3.mb-4.mb-lg-0
               .p-4.bg-c13
                 p.text-center.mb-0 Contrato de prestación de servicio.
@@ -279,7 +279,7 @@
             .col-md-6.col-lg-3.mb-4.mb-lg-0
               .p-4.bg-c13
                 p.text-center.mb-0 Contrato de aprendizaje.
-          .tarjeta.bg-c6.p-3
+          .tarjeta.bg-c6.p-3(data-aos="fade-right")
             .row.justify-content-around.align-items-center
               .col-auto
                 img(src="@/assets/curso/tema1/img1.svg")
@@ -295,19 +295,19 @@
     .row
       .col-12
         .p-5.bg-c14
-          p #[b Afiance los conceptos.] Se invita a desarrollar la siguiente actividad, para fortalecer los conocimientos. Consiste en relacionar el número que corresponde a la clase de contrato con sus características, escribiendo el numeral al que corresponde en la columna No.
-          p.mb-4 #[b Para su elaboración, se puede indagar en el siguiente libro: Contabilidad universitaria.]
-          .row.mb-4
+          p(data-aos="fade-right") #[b Afiance los conceptos.] Se invita a desarrollar la siguiente actividad, para fortalecer los conocimientos. Consiste en relacionar el número que corresponde a la clase de contrato con sus características, escribiendo el numeral al que corresponde en la columna No.
+          p.mb-4(data-aos="fade-right") #[b Para su elaboración, se puede indagar en el siguiente libro: Contabilidad universitaria.]
+          .row.mb-4(data-aos="fade-down")
             .col-auto
               a.anexo.mb-4.mb-lg-0(href="https://es.slideshare.net/slideshow/contabilidad-universitaria-septima-edicin-de-mcgrawshill/267572437" target="_blank")
                 .anexo__icono
                   img(src="@/assets/template/icono-link.svg")
                 .anexo__texto
                   p #[b Enlace web.] Contabilidad universitaria. Carmen y Gudiño (2014).
-          p.mb-4 #[b Ejemplo:]
-          .titulo-sexto.color-acento-contenido.mb-3
+          p.mb-4(data-aos="fade-right") #[b Ejemplo:]
+          .titulo-sexto.color-acento-contenido.mb-3(data-aos="fade-down")
             p.mb-0 #[b Tabla 1.] Tipos de contrato laboral en Colombia
-          .tabla-a.color-acento-botones.mb-4
+          .tabla-a.color-acento-botones.mb-4(data-aos="fade-left")
             table
               thead
                 tr
@@ -371,10 +371,10 @@
                   td.txt-p1 
                   td 
                   td.txt-p1 Tiene un término equivalente a la duración de la obra o labor encomendada.
-          p.mb-4 #[b Una vez realizada la tabla de ejemplo, se debe comparar con las siguientes respuestas:]
-          .titulo-sexto.color-acento-contenido.mb-3
+          p.mb-4(data-aos="fade-right") #[b Una vez realizada la tabla de ejemplo, se debe comparar con las siguientes respuestas:]
+          .titulo-sexto.color-acento-contenido.mb-3(data-aos="fade-down")
             p.mb-0 #[b Tabla 2.] Tipos de contrato laboral en Colombia
-          .tabla-a.color-acento-botones
+          .tabla-a.color-acento-botones(data-aos="fade-left")
             table
               thead
                 tr
@@ -443,17 +443,17 @@
     .titulo-segundo.color-acento-contenido
       h2 1.3 Deberes y derechos de empleado y empleador
     .row.mb-4
-      .col-lg-7.order-2.order-lg-1
+      .col-lg-7.order-2.order-lg-1(data-aos="fade-right")
         p En la relación contractual, a diario se presentan diversas situaciones de inconformidad que afectan a las partes interesadas en la ejecución de un contrato de trabajo; es por ello que se hace importante resaltar que la ley protege a cada una de las personas que intervienen en un conflicto laboral. Por tal motivo se invita a profundizar sobre los deberes y derechos, tanto para el empleador como para el empleado.
         .row
           .col-12
             .p-4.bg-c16
               p Los deberes y derechos están consagrados en el CST desde el #[b Artículo 56. Obligaciones de las partes en general.]
               p.mb-0 De modo general, incumben al empleador obligaciones de protección y de seguridad para con los trabajadores, y a estos, obligaciones de obediencia y fidelidad para con el empleador.
-      .col-lg-5.order-1.order-lg-2.mb-4.mb-lg-0
+      .col-lg-5.order-1.order-lg-2.mb-4.mb-lg-0(data-aos="fade-left")
         figure
           img(src='@/assets/curso/tema1/img8.svg', alt='', style="width: 400px").m-auto
-    p.mb-4 #[b De acuerdo con el CST, se establecen en el Artículo 57. Las obligaciones especiales del empleador, a saber:]
+    p.mb-4(data-aos="fade-right") #[b De acuerdo con el CST, se establecen en el Artículo 57. Las obligaciones especiales del empleador, a saber:]
     .row.bg-c9.mb-4
       .col-12
         .p-5
@@ -535,7 +535,7 @@
                 .col-lg-4
                   figure
                     img(src="@/assets/curso/tema1/img17.png", alt="", style="width: 400px").m-auto
-    p.mb-4 #[b Así mismo, se establece en el CST el Artículo 58. Obligaciones especiales del trabajador, en el que se relaciona:]
+    p.mb-4(data-aos="fade-right") #[b Así mismo, se establece en el CST el Artículo 58. Obligaciones especiales del trabajador, en el que se relaciona:]
     .row.bg-c9
       .col-12
         .p-5
@@ -603,9 +603,9 @@
               img(src='@/assets/curso/tema1/img5.png', alt='', style='width: 60px; position: relative; left: -25px').m-auto
           .col.ps-0
             h3.mb-0 Causales generales
-    p.mb-4 Un contrato de trabajo se puede dar por terminado cuando se presente cualquiera de las siguientes causas. Según el Artículo 61 del CST, estas son:
+    p.mb-4(data-aos="fade-right") Un contrato de trabajo se puede dar por terminado cuando se presente cualquiera de las siguientes causas. Según el Artículo 61 del CST, estas son:
     .row.mb-4
-      .col-lg-7.order-2.order-lg-1
+      .col-lg-7.order-2.order-lg-1(data-aos="fade-right")
         .p-4.bg-c7
           ul.lista-ul--color.mb-0
             li.d-flex
@@ -640,10 +640,10 @@
               i.fas.fa-circle-check(style="color: #5B39A6")
               |
               p.mb-0 Por no regresar el trabajador a su empleo, al desaparecer las causas de la suspensión del contrato. (CST, 2020, párr. 1)
-      .col-lg-5.order-1.order-lg-2.mb-4.mb-lg-0
+      .col-lg-5.order-1.order-lg-2.mb-4.mb-lg-0(data-aos="fade-left")
         figure
           img(src='@/assets/curso/tema1/img21.png', alt='', style="width: 480px").m-auto
-    p.mb-4 El CST consagra las causas justas para dar por terminado unilateralmente el contrato de trabajo, por parte del empleador:
+    p.mb-4(data-aos="fade-down") El CST consagra las causas justas para dar por terminado unilateralmente el contrato de trabajo, por parte del empleador:
     .row.bg-c9.mb-4
       .col-12
         .p-5
@@ -739,7 +739,7 @@
                 .col-lg-4
                   figure
                     img(src="@/assets/curso/tema1/img26.png", alt="", style="width: 400px").m-auto
-    p.mb-5 El CST consagra las causas justas para dar por terminado unilateralmente el contrato de trabajo, por parte del trabajador.
+    p.mb-5(data-aos="fade-right") El CST consagra las causas justas para dar por terminado unilateralmente el contrato de trabajo, por parte del trabajador.
     .row.mb-4.ms-0
       .col-auto.bg-c8(data-aos="fade-left")
         .row.align-items-center
@@ -748,8 +748,8 @@
               img(src='@/assets/curso/tema1/img5.png', alt='', style='width: 60px; position: relative; left: -25px').m-auto
           .col.ps-0
             h3.mb-0 Indemnizaciones
-    p.mb-4 Cuando un contrato de trabajo se termina sin una causa justificada, la parte responsable debe pagar una indemnización a la otra. Esta compensación busca cubrir los perjuicios causados por la terminación y puede incluir tanto lo que la persona dejó de recibir (lucro cesante) como los gastos adicionales generados (daño emergente).
-    figure
+    p.mb-4(data-aos="fade-right") Cuando un contrato de trabajo se termina sin una causa justificada, la parte responsable debe pagar una indemnización a la otra. Esta compensación busca cubrir los perjuicios causados por la terminación y puede incluir tanto lo que la persona dejó de recibir (lucro cesante) como los gastos adicionales generados (daño emergente).
+    figure(data-aos="fade-left")
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/Vo2C_w6H1pE?si=yii0bcWVEIfrwG7L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
  
