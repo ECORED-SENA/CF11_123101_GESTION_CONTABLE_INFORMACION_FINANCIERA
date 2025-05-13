@@ -2,7 +2,7 @@ export default {
   global: {
     Name: 'Contratos de trabajo y liquidación de nómina',
     Description:
-      'El talento humano es el recurso más importante con el que cuenta una organización, se encarga de hacer realidad todas las metas y estrategias que la empresa propone, por lo anterior, es de vital importancia que sus prestaciones sociales sean garantizadas, como una forma de compensar la contraprestación del servicio del colaborador hacia la empresa; a partir de esto, es necesario tener conocimiento con respecto a la liquidación y pago correcto de las prestaciones sociales, las cuales se reflejan en el presente componente.',
+      'El talento humano es el recurso más importante con el que cuenta una organización; se encarga de hacer realidad todas las metas y estrategias que la empresa propone. por lo anterior, es de vital importancia que sus prestaciones sociales sean garantizadas, como una forma de compensar la contraprestación del servicio del colaborador hacia la empresa; a partir de esto, es necesario tener conocimiento con respecto a la liquidación y pago correcto de las prestaciones sociales, las cuales se reflejan en el presente componente.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
@@ -320,13 +320,12 @@ export default {
     {
       referencia:
         'Moncayo, C. (2015, 21 septiembre). <i>¿Cuáles son las justas causas que tiene el trabajador para dar por terminado el contrato de trabajo?</i> Instituto Nacional de Contadores Públicos de Colombia. ',
-      link:
-        'https://incp.org.co/cuales-son-las-justas-causas-que-tiene-el-trabajador-para-dar-por-terminado-el-contrato-de-trabajo/',
+      link: '',
     },
     {
       referencia:
         'Moncayo, C. (2017, 11 diciembre). <i>Políticas Contables</i>. Instituto Nacional de Contadores Públicos de Colombia. ',
-      link: 'https://incp.org.co/politicas-contables-2/',
+      link: '',
     },
     {
       referencia:

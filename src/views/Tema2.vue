@@ -33,17 +33,17 @@
               .p-4.bg-c11
                 figure.mb-3
                   img(src='@/assets/curso/tema2/img2.svg', alt='', style="width: 150px").m-auto
-                p.mb-0 Beneficios a los empleados son todas las formas de contraprestación concedidas por una entidad a cambio de los servicios prestados por los empleados o por indemnizaciones por cese.
+                p.mb-0 Los beneficios a los empleados son todas las formas de contraprestación concedidas por una entidad a cambio de los servicios prestados por los empleados o por indemnizaciones por cese.
             .col-md-6.col-lg-3.mb-4.mb-lg-0
               .p-4.bg-c11
                 figure.mb-3
                   img(src='@/assets/curso/tema2/img3.svg', alt='', style="width: 150px").m-auto
-                p.mb-0 Beneficios a los empleados a corto plazo son beneficios a los empleados (diferentes de las indemnizaciones por cese) que se espera liquidar totalmente antes de los doce meses siguientes al final del periodo anual sobre el que se informa en el que los empleados hayan prestado los servicios relacionados.
+                p.mb-0 Los beneficios a los empleados a corto plazo son beneficios a los empleados (diferentes de las indemnizaciones por cese) que se espera liquidar totalmente antes de los doce meses siguientes al final del periodo anual sobre el que se informa, en el que los empleados hayan prestado los servicios relacionados.
             .col-md-6.col-lg-3.mb-4.mb-md-0
               .p-4.bg-c11
                 figure.mb-3
                   img(src='@/assets/curso/tema2/img4.svg', alt='', style="width: 150px").m-auto
-                p.mb-0 Beneficios post-empleo son beneficios a los empleados (diferentes de las indemnizaciones por cese y beneficios a los empleados a corto plazo) que se pagan después de completar su periodo de empleo.
+                p.mb-0 los beneficios post-empleo son beneficios a los empleados (diferentes de las indemnizaciones por cese y beneficios a los empleados a corto plazo) que se pagan después de completar su periodo de empleo.
             .col-md-6.col-lg-3
               .p-4.bg-c11
                 figure.mb-3
@@ -53,7 +53,7 @@
             .col-auto
               .px-3.py-2.bg-c19
                 p.mb-0 #[b Los beneficios a los empleados comprenden:]
-          p.mb-4(data-aos="fade-right") Los beneficios a corto plazo, tales como los siguientes, si se esperan liquidar totalmente antes de los doce meses posteriores al final del periodo anual sobre el que se informa en el que los empleados presten los servicios relacionados:
+          p.mb-4(data-aos="fade-right") Los beneficios a corto plazo, tales como los siguientes, sí se esperan liquidar totalmente antes de los doce meses posteriores al final del periodo anual sobre el que se informa ausencias en el que los empleados presten los servicios relacionados:
     .row.justify-content-center.mb-5(data-aos="fade-down")
       .col-md-6.col-lg-4.mb-4.mb-lg-0
         .p-4.bg-c13
@@ -64,7 +64,7 @@
         .p-4.bg-c13
           figure.mb-3
             img(src="@/assets/curso/tema2/img7.svg", alt="", style="width: 150px").m-auto
-          p.text-center.mb-0 Derechos por permisos y ausencia retribuidos por enfermedad.
+          p.text-center.mb-0 Derechos por permisos y ausencias retribuidos por enfermedad.
       .col-md-6.col-lg-4
         .p-4.bg-c13
           figure.mb-3
@@ -97,11 +97,11 @@
               .p-4.bg-c13
                 figure.mb-3
                   img(src="@/assets/curso/tema2/img11.svg", alt="", style="width: 150px").m-auto
-                p.text-center.mb-0 Los premios de antigüedad u otros beneficios por largo tiempo de servicio; y los beneficios por invalidez permanente y beneficios por terminación. (Comité de Normas Internacionales de Contabilidad, 1998)
+                p.text-center.mb-0 Los premios de antigüedad u otros beneficios por largo tiempo de servicio; y los beneficios por invalidez permanente y beneficios por terminación. (Comité de Normas Internacionales de Contabilidad, 1998).
           .row.justify-content-center
             .col-lg-10(data-aos="fade-down")
               .p-4.bg-c20
-                p.mb-4 Con el fin de profundizar sobre la Norma Internacional (NIC) 19, se sugiere explorar las siguientes recursos:
+                p.mb-4 Con el fin de profundizar sobre la Norma Internacional (NIC) 19, se sugiere explorar los siguientes recursos:
                 .row.justify-content-center
                   .col-auto
                     a.anexo.mb-4.mb-lg-0.shadow(href="https://www2.deloitte.com/content/dam/Deloitte/cr/Documents/audit/documentos/niif-2019/NIC%2019%20-%20Beneficios%20a%20los%20Empleados.pdf" target="_blank")
@@ -124,9 +124,9 @@
         .px-5
           .row.mb-5
             .col-lg-7.order-2.order-lg-1(data-aos="fade-right")
-              p El trabajo extra se consagra cuando un trabajador debe laborar una vez terminada su jornada de trabajo ordinaria; igualmente, se deben tener en cuenta, en el momento de liquidar el tiempo extra, los diversos recargos a que tiene lugar según los demarcados en la norma laboral colombiana.
-              p El Código Sustantivo de Trabajo (CST), en su Artículo 159, lo define claramente así:
-              p.mb-0 “Trabajo suplementario o de horas extras es el que excede de la jornada ordinaria, y en todo caso el que excede de la máxima legal”. (CST, art. 159)
+              p El trabajo extra se consagra cuando un trabajador debe laborar una vez terminada su jornada de trabajo ordinaria; igualmente, se deben tener en cuenta, en el momento de liquidar el tiempo extra, los diversos recargos que tienen lugar según los demarcados en la norma laboral colombiana.
+              p El Código Sustantivo de Trabajo (CST), en su artículo 159, lo define claramente así:
+              p.mb-0 “Trabajo suplementario o de horas extras es el que excede de la jornada ordinaria, y en todo caso el que excede de la máxima legal”. (CST, art. 159).
             .col-lg-5.order-1.order-lg-2.mb-4.mb-lg-0(data-aos="fade-left")
               figure
                 img(src="@/assets/curso/tema2/img3.png", alt="", style="width: 460px").m-auto
@@ -187,19 +187,19 @@
                   li.d-flex
                     i.fas.fa-circle-check(style="color: #5B39A6")
                     |
-                    p.mb-0 HEOD: Recargo 25 %, su liquidación V.H.O (valor hora ordinaria) x 125 %
+                    p.mb-0 HEOD: recargo 25 %, su liquidación V.H.O (valor hora ordinaria) x 125 %.
                   li.d-flex
                     i.fas.fa-circle-check(style="color: #5B39A6")
                     |
-                    p.mb-0 HEON: Recargo 75 %, su liquidación V.H.O (valor hora ordinaria) x 175 %
+                    p.mb-0 HEON: recargo 75 %, su liquidación V.H.O (valor hora ordinaria) x 175 %.
                   li.d-flex
                     i.fas.fa-circle-check(style="color: #5B39A6")
                     |
-                    p.mb-0 HEDD: Recargo 100 %, su liquidación V.H.O (valor hora ordinaria) x 200 %
+                    p.mb-0 HEDD: recargo 100 %, su liquidación V.H.O (valor hora ordinaria) x 200 %.
                   li.d-flex
                     i.fas.fa-circle-check(style="color: #5B39A6")
                     |
-                    p.mb-0 HEDN: Recargo 150 %, su liquidación V.H.O (valor hora ordinaria) x 250 %
+                    p.mb-0 HEDN: recargo 150 %, su liquidación V.H.O (valor hora ordinaria) x 250 %.
     p.mb-4(data-aos="fade-right") V.H.O. Corresponde al valor ordinario de la hora, se determina dividiendo el salario mensual entre 240, que son las horas que deben trabajar de acuerdo con la jornada laboral máxima legal, que es de 8 horas, y como el mes para efectos laborales se entiende 30 días, tenemos que 30 x 8 = 240. (Gerencie, 2020).
     .row
       .col-lg-3.mb-4.mb-lg-0(data-aos="fade-right")
@@ -226,7 +226,7 @@
     #t_2_3
     .titulo-segundo.color-acento-contenido
       h2 2.3 Devengado
-    p.mb-4(data-aos="fade-right") Representa todas las sumas que el empleador paga al trabajador, de acuerdo con la legislación laboral vigente y está conformado por los diferentes conceptos que constituyen el salario; este valor está compuesto por el salario básico, horas extras, recargos diurnos y nocturnos, dominicales, festivos, comisiones, auxilio de transporte entre otros.
+    p.mb-4(data-aos="fade-right") Representa todas las sumas que el empleador paga al trabajador, de acuerdo con la legislación laboral vigente, y está conformado por los diferentes conceptos que constituyen el salario; este valor está compuesto por el salario básico, horas extras, recargos diurnos y nocturnos, dominicales, festivos, comisiones, auxilio de transporte entre otros.
     .row.mb-0.mb-lg-4
       .col-lg-6.mb-4.mb-lg-0(data-aos="fade-right")
         .p-4.bg-c22
@@ -236,7 +236,7 @@
                 img(src="@/assets/curso/tema2/img14.svg", alt="", style="width: 100px").m-auto
             .col
               p #[b Ejemplo 1]
-              p.mb-0 #[b Sueldo básico devengado:] si un trabajador inicia a laborar el día 2 de marzo, con un sueldo concertado con la empresa de $1.200.000, el valor devengado en el mes corresponde a $1.160.000.
+              p.mb-0 #[b Sueldo básico devengado:] sí un trabajador inicia a laborar el día 2 de marzo, con un sueldo concertado con la empresa de $1.200.000, el valor devengado en el mes corresponde a $1.160.000.
       .col-lg-6.mb-4.mb-lg-0(data-aos="fade-left")
         .p-4.bg-c22
           .row
@@ -245,13 +245,13 @@
                 img(src="@/assets/curso/tema2/img15.svg", alt="", style="width: 100px").m-auto
             .col
               p #[b Ejemplo 2]
-              p.mb-0 #[b Auxilio de transporte devengado:] si un trabajador inicia a laborar el día 11 de marzo, con un auxilio de transporte, según la ley $102.854, el valor devengado en el mes corresponde a $68.569 (20 días).
-    p.mb-0(data-aos="fade-down") Condición para reconocer el auxilio de transporte se debe pagar a los trabajadores que devenguen hasta dos salarios mínimos mensuales.
+              p.mb-0 #[b Auxilio de transporte devengado:] sí un trabajador inicia a laborar el día 11 de marzo, con un auxilio de transporte, según la ley $102.854, el valor devengado en el mes corresponde a $68.569 (20 días).
+    p.mb-0(data-aos="fade-down") Condición para reconocer el auxilio de transporte; se debe pagar a los trabajadores que devenguen hasta dos salarios mínimos mensuales.
     Separador
     #t_2_4
     .titulo-segundo.color-acento-contenido
       h2 2.4 Deducciones
-    p.mb-4(data-aos="fade-down") Las deducciones de una nómina son los valores que se resta a los devengos salariales. Incluye los pagos a la seguridad social (salud, pensión) y la retención en la fuente, la cual es entregada al organismo recaudador de impuestos (DIAN), debido a que la entidad o empresa ejerce la función de agente retenedor.
+    p.mb-4(data-aos="fade-down") Las deducciones de una nómina son los valores que se restan a los devengos salariales. Incluye los pagos a la seguridad social (salud, pensión) y la retención en la fuente, la cual es entregada al organismo recaudador de impuestos (DIAN), debido a que la entidad o empresa ejerce la función de agente retenedor.
     .row.mb-5
       .col-lg-5.mb-4.mb-lg-0(data-aos="fade-right")
         figure
@@ -271,7 +271,7 @@
             li.d-flex
               i.fas.fa-circle-check(style="color: #5B39A6")
               |
-              p.mb-0 Aportes a fondo de solidaridad pensional, el porcentaje depende del valor devengado y comienza desde 1 % para los trabajadores que devenguen en el periodo cuatro o más salarios mínimos legales vigentes.
+              p.mb-0 Aportes a fondo de solidaridad pensional; el porcentaje depende del valor devengado y comienza desde 1 % para los trabajadores que devenguen en el periodo cuatro o más salarios mínimos legales vigentes.
             li.d-flex
               i.fas.fa-circle-check(style="color: #5B39A6")
               |
@@ -287,7 +287,7 @@
             li.d-flex
               i.fas.fa-circle-check(style="color: #5B39A6")
               |
-              p.mb-0 Cuotas o créditos a entidades financieras “Libranza”.
+              p.mb-0 Cuotas o créditos a entidades financieras “libranza”.
             li.d-flex
               i.fas.fa-circle-check(style="color: #5B39A6")
               |
@@ -319,29 +319,29 @@
                 figure.mb-3
                   img(src="@/assets/curso/tema2/img5.png", alt="", style="width: 480px").m-auto
                 p #[b Seguridad social]
-                p.mb-0 Es el derecho que tiene toda persona natural, y en especial todo trabajador, a que se le garantice la seguridad social integral,  entendida ésta como la cobertura en salud, riesgos de invalidez, vejez y muerte, igualmente cobertura en accidentes de trabajo. (Gerencie, 2021a)
+                p.mb-0 Es el derecho que tiene toda persona natural, y en especial todo trabajador, a que se le garantice la seguridad social integral,  entendida ésta como la cobertura en salud, riesgos de invalidez, vejez y muerte, igualmente cobertura en accidentes de trabajo. (Gerencie, 2021a).
             .col-lg-6(data-aos="fade-left")
               .p-4.bg-c23.h-100
                 figure.mb-3
                   img(src="@/assets/curso/tema2/img6.png", alt="", style="width: 480px").m-auto
                 p #[b Parafiscales]
-                p.mb-0 Los aportes parafiscales son contribuciones de carácter obligatorio impuestas por la ley en cabeza de los empleadores, las cuales se determinan sobre la base gravable de la nómina total de trabajadores y que beneficia no solo a estos, sino también al sostenimiento del ICBF, el SENA y las Cajas de Compensación Familiar. (CAFASUR, 2018)
+                p.mb-0 Los aportes parafiscales son contribuciones de carácter obligatorio impuestas por la ley en cabeza de los empleadores, las cuales se determinan sobre la base gravable de la nómina total de trabajadores y que beneficia no solo a estos, sino también al sostenimiento del ICBF, el SENA y las Cajas de Compensación Familiar. (CAFASUR, 2018).
           .row.mb-4
             .col-lg-4.mb-4.mb-lg-0(data-aos="fade-right")
               figure
                 img(src="@/assets/curso/tema2/img7.png", alt="", style="width: 400px").m-auto
             .col-lg-8(data-aos="fade-left")
-              p.mb-0 De esta manera se relaciona el decreto por el cual se expide el Estatuto Tributario de los Impuestos Administrados por la Dirección General de Impuestos Nacionales Art. 114-1 ET Exoneración de aportes que indica:
+              p.mb-0 De esta manera se relaciona el decreto por el cual se expide el Estatuto Tributario de los Impuestos Administrados por la Dirección General de Impuestos Nacionales, art. 114-1 ET exoneración de aportes que indica:
               .bloque-texto-b.color-primario.p-4
                 .bloque-texto-b__texto
                   i.fas.fa-quote-left
                   p.mb-0 Estarán exoneradas del pago de los aportes parafiscales a favor del Servicio Nacional del Aprendizaje (SENA), del Instituto Colombiano de Bienestar Familiar (ICBF) y las cotizaciones al Régimen Contributivo de Salud, las sociedades y personas jurídicas y asimiladas contribuyentes declarantes del impuesto sobre la renta y complementarios, correspondientes a los trabajadores que devenguen, individualmente considerados, menos de diez (10) salarios mínimos legales mensuales vigentes.
                   i.fas.fa-quote-right
                   br
-                  p.d-flex.justify-content-end (Gerencie, 2019)
+                  p.d-flex.justify-content-end (Gerencie, 2019).
           .row
             .col-lg-8.order-2.order-lg-1(data-aos="fade-right")
-              p.mb-0 Así mismo las personas naturales empleadoras estarán exoneradas de la obligación de pago de los aportes parafiscales al SENA, al ICBF y al Sistema de Seguridad Social en Salud por los empleados que devenguen menos de diez (10) salarios mínimos legales mensuales vigentes. Lo anterior no aplicará para personas naturales que empleen menos de dos trabajadores, los cuales seguirán obligados a efectuar los aportes de que trata este inciso. Ver Tabla 1.
+              p.mb-0 Así mismo, las personas naturales empleadoras estarán exoneradas de la obligación de pago de los aportes parafiscales al SENA, al ICBF y al Sistema de Seguridad Social en Salud por los empleados que devenguen menos de diez (10) salarios mínimos legales mensuales vigentes. Lo anterior no aplicará para personas naturales que empleen menos de dos trabajadores, los cuales seguirán obligados a efectuar los aportes de que trata este inciso. Ver Tabla 3.
             .col-lg-4.order-1.order-lg-2.mb-4.mb-lg-0(data-aos="fade-left")
               figure
                 img(src="@/assets/curso/tema2/img8.png", alt="", style="width: 400px").m-auto
@@ -360,7 +360,7 @@
             tbody.bg-white
               tr
                 td #[b Salud]
-                td 8.5 %
+                td 8,5 %
                 td 4 %
                 td 12.5 %
               tr.bg-c15
@@ -369,8 +369,8 @@
                 td 4 %
                 td 16 %
               tr
-                td #[b *ARL]
-                td 0.522 %
+                td #[b ARL]
+                td 0,522 %
                 td 0 %
                 td 0.522 %
               tr.bg-c15
@@ -393,7 +393,7 @@
                 td 2 %
                 td 0 %
                 td 2 %
-    p.mb-0(data-aos="fade-down") *ARL: La cotización de ARL varía según el riesgo a que se exponga cada trabajador y es pagada en su totalidad por el empleador. Los aportes varían entre un 0,348 % para el nivel I y 8.7 % para el nivel V de riesgo. La tarifa más común es del 0.522 %.
+    p.mb-0(data-aos="fade-down") *ARL: La cotización de ARL varía según el riesgo a que se exponga cada trabajador y es pagada en su totalidad por el empleador. Los aportes varían entre un 0,348 % para el nivel I y 8,7 % para el nivel V de riesgo. La tarifa más común es del 0,522 %.
     Separador
     #t_2_6
     .titulo-segundo.color-acento-contenido
@@ -422,7 +422,7 @@
       p.mb-0 #[b Figura 1.] Resumen prestaciones sociales
     figure.mb-4(data-aos="fade-left")
       img(src='@/assets/curso/tema2/img17.svg', alt='', style='width: 650px').m-auto
-    p.mb-4(data-aos="fade-right") En Colombia los ingresos laborales o por salarios están sometidos a retención en la fuente a título de renta, con una tarifa progresiva según el monto del salario sujeto a retención en la fuente. (Gerencie. 2020b).
+    p.mb-4(data-aos="fade-right") En Colombia, los ingresos laborales o por salarios están sometidos a retención en la fuente a título de renta, con una tarifa progresiva según el monto del salario sujeto a retención en la fuente. (Gerencie, 2020b).
     .row.bg-c17.mb-5
       .col-12
         .px-5
@@ -447,7 +447,7 @@
                     img(src='@/assets/curso/tema1/img5.png', alt='', style='width: 60px; position: relative; left: -25px').m-auto
                 .col.ps-0
                   h3.mb-0 Base sujeta a retención en la fuente
-          p.mb-5(data-aos="fade-down") Según lo consagrado en el Artículo 26 del Estatuto Tributario, corresponde a todos los pagos “que sean susceptibles de producir un incremento neto del patrimonio en el momento de su percepción, y que no hayan sido expresamente exceptuados”.
+          p.mb-5(data-aos="fade-down") Según lo consagrado en el artículo 26 del Estatuto Tributario, corresponde a todos los pagos “que sean susceptibles de producir un incremento neto del patrimonio en el momento de su percepción, y que no hayan sido expresamente exceptuados”.
           .row.mb-4.ms-0
             .col-auto.bg-c8(data-aos="fade-left")
               .row.align-items-center
@@ -456,7 +456,7 @@
                     img(src='@/assets/curso/tema1/img5.png', alt='', style='width: 60px; position: relative; left: -25px').m-auto
                 .col.ps-0
                   h3.mb-0 Tarifa de retención en la fuente por salarios
-          p.mb-4(data-aos="fade-right") El Artículo 383 del Estatuto Tributario, modificado por la Ley 2010 de 2019, contiene las tarifas que se deben aplicar por concepto de retención en la fuente por ingresos laborales. Ver Tabla 2.
+          p.mb-4(data-aos="fade-right") El artículo 383 del Estatuto Tributario, modificado por la Ley 2010 de 2019, contiene las tarifas que se deben aplicar por concepto de retención en la fuente por ingresos laborales. Ver Tabla 4.
           .row.justify-content-center
             .col-lg-8
               .titulo-sexto.color-acento-contenido.mb-3(data-aos="fade-down")
@@ -554,10 +554,10 @@
           .bloque-texto-b.color-primario.p-4
             .bloque-texto-b__texto
               i.fas.fa-quote-left
-              p.mb-0 …2. No obstante lo dispuesto en los artículos 13, 14, 16, 21 y 340 del Código Sustantivo del Trabajo y las normas concordantes con estas, cuando el trabajador devengue un salario ordinario superior a diez (10) salarios mínimos legales mensuales, valdrá la estipulación escrita de un salario que además de retribuir el trabajo ordinario, compense de antemano el valor de prestaciones, recargos y beneficios tales como el correspondiente al trabajo nocturno, extraordinario o al dominical y festivo, primas legales, extralegales, las cesantías y sus intereses, subsidios y suministros en especie; y, en general, las que se incluyan en dicha estipulación, excepto las vacaciones.
+              p.mb-0 …2. No obstante lo dispuesto en los artículos 13, 14, 16, 21 y 340 del Código Sustantivo del Trabajo y las normas concordantes con estas, cuando el trabajador devengue un salario ordinario superior a diez (10) salarios mínimos legales mensuales, valdrá la estipulación escrita de un salario que, además de retribuir el trabajo ordinario, compense de antemano el valor de prestaciones, recargos y beneficios tales como el correspondiente al trabajo nocturno, extraordinario o al dominical y festivo, primas legales, extralegales, las cesantías y sus intereses, subsidios y suministros en especie; y, en general, las que se incluyan en dicha estipulación, excepto las vacaciones.
               br
               br
-              p.mb-0 En ningún caso el salario integral podrá ser inferior al monto de diez (10) salarios mínimos legales mensuales, más el factor prestacional correspondiente a la empresa que no podrá ser inferior al treinta por ciento (30 %) de dicha cuantía. El monto del factor prestacional quedará exento del pago de retención en la fuente y de impuestos.
+              p.mb-0 En ningún caso el salario integral podrá ser inferior al monto de diez (10) salarios mínimos legales mensuales, más el factor prestacional correspondiente a la empresa, que no podrá ser inferior al treinta por ciento (30 %) de dicha cuantía. El monto del factor prestacional quedará exento del pago de retención en la fuente y de impuestos.
               br
               br
               pr Este salario no estará exento de las cotizaciones a la seguridad social, ni de los aportes al SENA, ICBF y cajas de compensación familiar, pero en el caso de estas tres últimas entidades, los aportes se disminuirán en un treinta por ciento (30 %).
@@ -566,7 +566,7 @@
               p.mb-0 El trabajador que desee acogerse a esta estipulación recibirá la liquidación definitiva de su auxilio de cesantía y demás prestaciones sociales causadas hasta esa fecha, sin que por ello se entienda terminado su contrato de trabajo…”
               i.fas.fa-quote-right
               br
-              p.d-flex.justify-content-end (Gerencie, 2019)
+              p.d-flex.justify-content-end (Gerencie, 2019).
     .row
       .col-lg-auto.mb-4.mb-lg-0.pe-lg-0(data-aos="fade-right")
         figure
@@ -592,7 +592,7 @@
                 li.d-flex
                   i.fas.fa-circle-check(style="color: #5B39A6")
                   |
-                  p.mb-0 Cotizar a la seguridad social y aportes parafiscales sobre el 70 % (Salud, Pensión, ARL, SENA, ICBF y Caja compensación).
+                  p.mb-0 Cotizar a la seguridad social y aportes parafiscales sobre el 70 % (Salud, Pensión, ARL, SENA, ICBF y Caja de compensación).
     Separador
     #t_2_8
     .titulo-segundo.color-acento-contenido
@@ -713,11 +713,11 @@
                     li.d-flex
                       i.fas.fa-circle-check(style="color: #5B39A6")
                       |
-                      p.mb-0 Sueldo básico devengado = sueldo básico concertado entre las partes dividido 30 y multiplicado por días trabajados.
+                      p.mb-0 Sueldo básico devengado = sueldo básico concertado entre las partes dividido entre 30 y multiplicado por días trabajados.
                     li.d-flex
                       i.fas.fa-circle-check(style="color: #5B39A6")
                       |
-                      p.mb-0 Auxilio de transporte devengado = auxilio transporte vigente dividido 30 y multiplicado por días trabajados.
+                      p.mb-0 Auxilio de transporte devengado = auxilio de transporte vigente dividido entre 30 y multiplicado por días trabajados.
                     li.d-flex
                       i.fas.fa-circle-check(style="color: #5B39A6")
                       |
@@ -770,7 +770,7 @@
                     li.d-flex
                       i.fas.fa-circle-check(style="color: #5B39A6")
                       |
-                      p.mb-0 Caja compensación: 4 %.
+                      p.mb-0 Caja de compensación: 4 %.
                     li.d-flex
                       i.fas.fa-circle-check(style="color: #5B39A6")
                       |
@@ -778,7 +778,7 @@
                     li.d-flex
                       i.fas.fa-circle-check(style="color: #5B39A6")
                       |
-                      p.mb-0 ARL: Según riesgo de cada trabajador.
+                      p.mb-0 ARL: Según el riesgo de cada trabajador.
                     li.d-flex
                       i.fas.fa-circle-check(style="color: #5B39A6")
                       |

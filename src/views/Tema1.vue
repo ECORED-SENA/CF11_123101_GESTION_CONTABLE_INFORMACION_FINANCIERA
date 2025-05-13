@@ -16,7 +16,7 @@
           .row
             .col-lg-8.order-2.order-lg-1(data-aos="fade-right")
               .p-4.bg-c4
-                p Legislación laboral es el conjunto de principios, acciones y normas que regulan directa e indirectamente las relaciones entre empleadores y trabajadores, y de estos con el Estado, con el objeto de garantizar los derechos fundamentales de los trabajadores y la protección del trabajo. Todo lo anterior tiene el único fin de lograr la paz social, siendo esta la finalidad del código laboral colombiano. (Ginnamarce, 2014)
+                p La legislación laboral es el conjunto de principios, acciones y normas que regulan directa e indirectamente las relaciones entre empleadores y trabajadores, y de estos con el Estado, con el objeto de garantizar los derechos fundamentales de los trabajadores y la protección del trabajo. Todo lo anterior tiene el único fin de lograr la paz social, siendo esta la finalidad del código laboral colombiano. (Ginnamarce, 2014).
                 p En este componente se abordará la normatividad requerida para el reconocimiento de los beneficios a los empleados en Colombia.
                 p.mb-0 Para apropiarse del conocimiento de la normatividad vigente, en cuanto a la legislación laboral en Colombia, la cual debe ser aplicada en cualquier contexto laboral de las empresas, es necesario realizar una revisión del Código Sustantivo de Trabajo (CST) y los cambios reflejados en el Decreto 1072 de 2015.
             .col-lg-4.order-1.order-lg-2.mb-4.mb-lg-0(data-aos="fade-left")
@@ -78,7 +78,7 @@
         .col
           .row.justify-content-between.align-items-center
             .col.mb-3.mb-sm-0
-              h4.txt-c1.mb-1 Codigo Sustantivo del Trabajo
+              h4.txt-c1.mb-1 Código Sustantivo del Trabajo
               p.text-white.mb-0 Es de resaltar la importancia de conocer el contenido del CST, para ello se invita a observar su estructura general a través del siguiente enlace:
             .col-sm-auto
               a.boton.color-acento-botones(href="https://www.alcaldiabogota.gov.co/sisjur/normas/Norma1.jsp?i=33104" target="_blank")
@@ -90,7 +90,7 @@
       h2 1.1 Política contable
     .row.mb-4
       .col-lg-10.order-2.order-lg-1(data-aos="fade-right")
-        p Es un conjunto de principios, reglas y procedimientos específicos que son adoptados por una entidad para preparar y realizar los estados o documentos contables. (Moncayo, 2017)
+        p Es un conjunto de principios, reglas y procedimientos específicos que son adoptados por una entidad para preparar y realizar los estados o documentos contables. (Moncayo, 2017).
         p.mb-0 Consultando políticas contables de entidades, se encuentra la siguiente estructura, la cual es definida por las Normas Internacionales de la Información Financiera (NIIF):
       .col-lg-2.order-1.order-lg-2.mb-4.mb-lg-0(data-aos="fade-left")
         figure
@@ -129,11 +129,11 @@
             li.d-flex
               i.fas.fa-circle-check(style="color: #5B39A6")
               |
-              p.mb-0 Responsabilidades (preparación y mantenimiento en el tiempo de la política contable- preferiblemente debe ser un cargo y no una persona).
+              p.mb-0 Responsabilidades (preparación y mantenimiento en el tiempo de la política "contable" preferiblemente debe ser un cargo y no una persona).
             li.d-flex
               i.fas.fa-circle-check(style="color: #5B39A6")
               |
-              p.mb-0 Normas aplicables NIIF aplicable, (normas legales locales que deben ser observadas).
+              p.mb-0 Normas aplicables NIIF "aplicable" (normas legales locales que deben ser observadas).
             li.d-flex
               i.fas.fa-circle-check(style="color: #5B39A6")
               |
@@ -161,16 +161,16 @@
             figure
               img(src='@/assets/curso/tema1/img5.png', alt='', style='width: 60px; position: relative; left: -25px').m-auto
           .col.ps-0
-            h3.mb-0 Definición contrato de trabajo
+            h3.mb-0 Definición de contrato de trabajo
     .bloque-texto-g.bloque-texto-g--inverso.color-secundario.p-3.p-sm-4.p-md-5.mb-5(data-aos="fade-down")
       .bloque-texto-g__img(
         :style="{'background-image': `url(${require('@/assets/curso/tema1/img6.png')})`}"
       )
       .bloque-texto-g__texto.p-4
-        p De acuerdo con el CST en el Artículo 22, “Contrato de trabajo es aquel por el cual una persona natural se obliga a prestar un servicio personal a otra persona natural o jurídica, bajo la continuada dependencia o subordinación de la segunda y mediante la remuneración o salario” (Secretaría del Senado, 2020, art. 22)
+        p De acuerdo con el CST en el Artículo 22, “Contrato de trabajo es aquel por el cual una persona natural se obliga a prestar un servicio personal a otra persona natural o jurídica, bajo la continuada dependencia o subordinación de la segunda y mediante la remuneración o salario” (Secretaría del Senado, 2020, art. 22).
         br
         br
-        p.mb-0 Es importante resaltar que se debe profundizar el tema relacionado en el CST
+        p.mb-0 Es importante resaltar que se debe profundizar el tema relacionado en el CST.
     .row.mb-4.ms-0
       .col-auto.bg-c8(data-aos="fade-left")
         .row.align-items-center
@@ -180,7 +180,7 @@
           .col.ps-0
             h3.mb-0 Elementos del contrato de trabajo
     p(data-aos="fade-right") Todo contrato de trabajo deberá contener una serie de elementos que lo configuran legalmente; elementos que son esenciales en la concertación o convenio que pactan el empleador y trabajador, configurando la naturaleza de la relación laboral entre las partes.
-    p.mb-4(data-aos="fade-right") #[b El Artículo 23 del CST señala los tres elementos que contiene un contrato de trabajo:]
+    p.mb-4(data-aos="fade-right") #[b El artículo 23 del CST señala los tres elementos que contiene un contrato de trabajo:]
     .row.bg-c9.mb-5
       .col-12
         .p-5
@@ -199,7 +199,7 @@
                   p #[b La continuada subordinación]
                   p Es el segundo elemento de un contrato de trabajo, que se podría definir como el deber de un trabajador de obedecer las instrucciones y órdenes que el empleador le formule y donde el trabajador no tiene autonomía ni libertad respecto al cómo y cuándo debe hacer el trabajo para el cual fue contratado.
                   p.mb-0 #[b El CST la define así:]
-                  p.mb-0 “La continuada subordinación o dependencia del trabajador respecto del empleador que faculta a este para exigirle el cumplimiento de órdenes, en cualquier momento, en cuanto al modo, tiempo, cantidad de trabajo, e imponerle reglamentos, la cual debe mantenerse por todo el tiempo de duración del contrato. Todo ello sin que afecte el honor, la dignidad y los derechos mínimos del trabajador en concordancia con los tratados o convenios internacionales que sobre derechos humanos relativos a la materia obliguen al país”. (INCP, s.f.).
+                  p.mb-0 La continuada subordinación o dependencia del trabajador respecto del empleador que faculta a este para exigirle el cumplimiento de órdenes, en cualquier momento, en cuanto al modo, tiempo, cantidad de trabajo, e imponerle reglamentos, la cual debe mantenerse por todo el tiempo de duración del contrato. Todo ello sin que afecte el honor, la dignidad y los derechos mínimos del trabajador en concordancia con los tratados o convenios internacionales que sobre derechos humanos relativos a la materia obliguen al país. (INCP, s.f.).
                 .col-lg-4
                   figure
                     img(src="@/assets/curso/tema1/img9.png", alt="", style="width: 400px").m-auto
@@ -240,7 +240,7 @@
                   .col-auto.bg-c12
                     .px-2.py-1
                       p.mb-0 #[b Accidental o transitorio]
-                p.text-center.mb-0 Es un contrato que se realiza por una actividad determinada para suplir una necesidad momentánea. Su duración es máxima de un mes.
+                p.text-center.mb-0 Es un contrato que se realiza por una actividad determinada para suplir una necesidad momentánea. Su duración es de un máximo de un mes.
             .col-md-6.col-lg-3.mb-4.mb-lg-0
               .p-4.bg-c11
                 figure.mb-3
@@ -249,7 +249,7 @@
                   .col-auto.bg-c12
                     .px-2.py-1
                       p.mb-0 #[b De obra o labor]
-                p.text-center.mb-0 Es un contrato donde se realizan actividades específicas, su duración tiene un término equivalente a la duración de la obra.
+                p.text-center.mb-0 Es un contrato donde se realizan actividades específicas; su duración tiene un término equivalente a la duración de la obra.
             .col-md-6.col-lg-3.mb-4.mb-md-0
               .p-4.bg-c11
                 figure.mb-3
@@ -258,7 +258,7 @@
                   .col-auto.bg-c12
                     .px-2.py-1
                       p.mb-0 #[b A término fijo]
-                p.text-center.mb-0 Es el acuerdo entre empleador y trabajador, su duración tiene una fecha específica, la cual no puede exceder de tres años.
+                p.text-center.mb-0 Es el acuerdo entre empleador y trabajador; su duración tiene una fecha específica, la cual no puede exceder de tres años.
             .col-md-6.col-lg-3
               .p-4.bg-c11
                 figure.mb-3
@@ -267,7 +267,7 @@
                   .col-auto.bg-c12
                     .px-2.py-1
                       p.mb-0 #[b A término indefinido]
-                p.text-center.mb-0 Es el contrato que no establece duración del contrato. (Carmen y Gudiño, 2014, p. 16)
+                p.text-center.mb-0 Es el contrato que no establece duración del contrato. (Carmen y Gudiño, 2014, p. 16).
           p.mb-4(data-aos="fade-right") #[b Existen otros contratos de trabajo, los cuales se relacionan a continuación:]
           .row.justify-content-center.mb-4(data-aos="fade-down")
             .col-md-6.col-lg-3.mb-4.mb-lg-0
@@ -295,7 +295,7 @@
     .row
       .col-12
         .p-5.bg-c14
-          p(data-aos="fade-right") #[b Afiance los conceptos.] Se invita a desarrollar la siguiente actividad, para fortalecer los conocimientos. Consiste en relacionar el número que corresponde a la clase de contrato con sus características, escribiendo el numeral al que corresponde en la columna No.
+          p(data-aos="fade-right") #[b Afiance los conceptos.] Se invita a desarrollar la siguiente actividad para fortalecer los conocimientos. Consiste en relacionar el número que corresponde a la clase de contrato con sus características, escribiendo el numeral al que corresponde en la columna No.
           p.mb-4(data-aos="fade-right") #[b Para su elaboración, se puede indagar en el siguiente libro: Contabilidad universitaria.]
           .row.mb-4(data-aos="fade-down")
             .col-auto
@@ -448,12 +448,12 @@
         .row
           .col-12
             .p-4.bg-c16
-              p Los deberes y derechos están consagrados en el CST desde el #[b Artículo 56. Obligaciones de las partes en general.]
+              p Los deberes y derechos están consagrados en el CST desde el #[b artículo 56. Obligaciones de las partes en general.]
               p.mb-0 De modo general, incumben al empleador obligaciones de protección y de seguridad para con los trabajadores, y a estos, obligaciones de obediencia y fidelidad para con el empleador.
       .col-lg-5.order-1.order-lg-2.mb-4.mb-lg-0(data-aos="fade-left")
         figure
           img(src='@/assets/curso/tema1/img8.svg', alt='', style="width: 400px").m-auto
-    p.mb-4(data-aos="fade-right") #[b De acuerdo con el CST, se establecen en el Artículo 57. Las obligaciones especiales del empleador, a saber:]
+    p.mb-4(data-aos="fade-right") #[b De acuerdo con el CST, se establecen en el artículo 57. Las obligaciones especiales del empleador, a saber:]
     .row.bg-c9.mb-4
       .col-12
         .p-5
@@ -473,7 +473,7 @@
                     li.d-flex
                       i.fas.fa-circle-check(style="color: #5B39A6")
                       |
-                      p.mb-0 Prestar inmediatamente los primeros auxilios en caso de accidente o de enfermedad. A este efecto, en todo establecimiento, taller o fábrica que ocupe habitualmente más de diez (10) trabajadores se deberá mantener lo necesario según reglamentación de las autoridades sanitarias.
+                      p.mb-0 Prestar inmediatamente los primeros auxilios en caso de accidente o de enfermedad. A este efecto, en todo establecimiento, taller o fábrica que ocupe habitualmente más de diez (10) trabajadores, se deberá mantener lo necesario según reglamentación de las autoridades sanitarias.
                 .col-lg-4
                   figure
                     img(src="@/assets/curso/tema1/img12.png", alt="", style="width: 400px").m-auto
@@ -497,7 +497,7 @@
                     li.d-flex
                       i.fas.fa-circle-check(style="color: #5B39A6")
                       |
-                      p.mb-0 Dar al trabajador que lo solicite, a la expiración de contrato, una certificación en que consten el tiempo de servicio, la índole de la labor y el salario devengado; e igualmente, si el trabajador lo solicita, hacerle practicar examen sanitario y darle certificación sobre el particular, si al ingreso o durante la permanencia en el trabajo hubiere sido sometido a examen médico. Se considera que el trabajador, por su culpa, elude, dificulta o dilata el examen, cuando transcurrido cinco (5) días a partir de su retiro no se presenta donde el médico respectivo para la práctica del examen, a pesar de haber recibido la orden correspondiente.
+                      p.mb-0 Dar al trabajador que lo solicite, a la expiración de contrato, una certificación en que consten el tiempo de servicio, la índole de la labor y el salario devengado; e igualmente, si el trabajador lo solicita, hacerle practicar examen sanitario y darle certificación sobre el particular, si al ingreso o durante la permanencia en el trabajo hubiere sido sometido a examen médico. Se considera que el trabajador, por su culpa, elude, dificulta o dilata el examen, cuando transcurridos cinco (5) días a partir de su retiro, no se presenta donde el médico respectivo para la práctica del examen, a pesar de haber recibido la orden correspondiente.
                 .col-lg-4
                   figure
                     img(src="@/assets/curso/tema1/img14.png", alt="", style="width: 400px").m-auto
@@ -521,7 +521,7 @@
                     li.d-flex
                       i.fas.fa-circle-check(style="color: #5B39A6")
                       |
-                      p.mb-0 Conceder al trabajador en caso de fallecimiento de su cónyuge, compañero o compañera permanente o de un familiar hasta el grado segundo de consanguinidad, primero de afinidad y primero civil, una licencia remunerada por luto de cinco (5) días hábiles, cualquiera sea su modalidad de contratación o de vinculación laboral. La grave calamidad doméstica no incluye la licencia por luto que trata este numeral. Este hecho deberá demostrarse mediante documento expedido por la autoridad competente, dentro de los treinta (30) días siguientes a su ocurrencia.
+                      p.mb-0 Conceder al trabajador, en caso de fallecimiento de su cónyuge, compañero o compañera permanente o de un familiar hasta el grado segundo de consanguinidad, primero de afinidad y primero civil, una licencia remunerada por luto de cinco (5) días hábiles, cualquiera que sea su modalidad de contratación o de vinculación laboral. La grave calamidad doméstica no incluye la licencia por luto que trata este numeral. Este hecho deberá demostrarse mediante documento expedido por la autoridad competente, dentro de los treinta (30) días siguientes a su ocurrencia.
                 .col-lg-4
                   figure
                     img(src="@/assets/curso/tema1/img16.png", alt="", style="width: 400px").m-auto
@@ -531,11 +531,11 @@
                     li.d-flex
                       i.fas.fa-circle-check(style="color: #5B39A6")
                       |
-                      p.mb-0 Conceder en forma oportuna a la trabajadora en estado de embarazo, la licencia remunerada consagrada en el numeral 1 del Artículo 236, de forma tal que empiece a disfrutarla de manera obligatoria una (1) semana antes o dos (2) semanas antes de la fecha probable del parto, según decisión de la futura madre conforme al certificado médico a que se refiere el numeral 3 del citado Artículo 236. (CST, 2020, art. 57 párr. 1-11)
+                      p.mb-0 Conceder en forma oportuna a la trabajadora en estado de embarazo la licencia remunerada consagrada en el numeral 1 del artículo 236, de forma tal que empiece a disfrutarla de manera obligatoria una (1) semana antes o dos (2) semanas antes de la fecha probable del parto, según decisión de la futura madre conforme al certificado médico a que se refiere el numeral 3 del citado artículo 236. (CST, 2020, art. 57 párr. 1-11).
                 .col-lg-4
                   figure
                     img(src="@/assets/curso/tema1/img17.png", alt="", style="width: 400px").m-auto
-    p.mb-4(data-aos="fade-right") #[b Así mismo, se establece en el CST el Artículo 58. Obligaciones especiales del trabajador, en el que se relaciona:]
+    p.mb-4(data-aos="fade-right") #[b Así mismo, se establece en el CST el artículo 58. Obligaciones especiales del trabajador, en el que se relaciona:]
     .row.bg-c9
       .col-12
         .p-5
@@ -587,7 +587,7 @@
                     li.d-flex
                       i.fas.fa-circle-check(style="color: #5B39A6")
                       |
-                      p.mb-0 La trabajadora en estado de embarazo debe empezar a disfrutar la licencia remunerada consagrada en el numeral 1 del Artículo 236, al menos una semana antes de la fecha probable del parto. (CST, 2020, art. 58 párr. 1-8)
+                      p.mb-0 La trabajadora en estado de embarazo debe empezar a disfrutar la licencia remunerada consagrada en el numeral 1 del Artículo 236, al menos una semana antes de la fecha probable del parto. (CST, 2020, art. 58 párr. 1-8).
                 .col-lg-4
                   figure
                     img(src="@/assets/curso/tema1/img20.png", alt="", style="width: 400px").m-auto
@@ -603,7 +603,7 @@
               img(src='@/assets/curso/tema1/img5.png', alt='', style='width: 60px; position: relative; left: -25px').m-auto
           .col.ps-0
             h3.mb-0 Causales generales
-    p.mb-4(data-aos="fade-right") Un contrato de trabajo se puede dar por terminado cuando se presente cualquiera de las siguientes causas. Según el Artículo 61 del CST, estas son:
+    p.mb-4(data-aos="fade-right") Un contrato de trabajo se puede dar por terminado cuando se presente cualquiera de las siguientes causas. Según el artículo 61 del CST, estas son:
     .row.mb-4
       .col-lg-7.order-2.order-lg-1(data-aos="fade-right")
         .p-4.bg-c7
@@ -639,7 +639,7 @@
             li.d-flex
               i.fas.fa-circle-check(style="color: #5B39A6")
               |
-              p.mb-0 Por no regresar el trabajador a su empleo, al desaparecer las causas de la suspensión del contrato. (CST, 2020, párr. 1)
+              p.mb-0 Por no regresar el trabajador a su empleo, al desaparecer las causas de la suspensión del contrato. (CST, 2020, párr. 1).
       .col-lg-5.order-1.order-lg-2.mb-4.mb-lg-0(data-aos="fade-left")
         figure
           img(src='@/assets/curso/tema1/img21.png', alt='', style="width: 480px").m-auto
@@ -681,7 +681,7 @@
                     li.d-flex
                       i.fas.fa-circle-check(style="color: #5B39A6")
                       |
-                      p.mb-0 Cualquier violación grave de las obligaciones o prohibiciones especiales que incumben al trabajador de acuerdo con los Artículos 58 y 60 del CST, o cualquier falta grave calificada como tal en pactos o convenciones colectivas, fallos arbitrales, contratos individuales o reglamentos.
+                      p.mb-0 Cualquier violación grave de las obligaciones o prohibiciones especiales que incumben al trabajador de acuerdo con los artículos 58 y 60 del CST, o cualquier falta grave calificada como tal en pactos o convenciones colectivas, fallos arbitrales, contratos individuales o reglamentos.
                 .col-lg-4
                   figure
                     img(src="@/assets/curso/tema1/img23.png", alt="", style="width: 400px").m-auto
@@ -735,7 +735,7 @@
                     li.d-flex
                       i.fas.fa-circle-check(style="color: #5B39A6")
                       |
-                      p.mb-0 La enfermedad contagiosa o crónica del trabajador, que no tenga carácter de profesional, así como cualquiera otra enfermedad o lesión que lo incapacite para el trabajo, cuya curación no haya sido posible durante ciento ochenta (180) días. El despido por esta causa no podrá efectuarse sino al vencimiento de dicho lapso y no exime al empleador de las prestaciones e indemnizaciones legales y convencionales derivadas de la enfermedad. (CST, 2020, art. 62 párr. 1-15)
+                      p.mb-0 La enfermedad contagiosa o crónica del trabajador, que no tenga carácter de profesional, así como otra enfermedad o lesión que lo incapacite para el trabajo, cuya curación no haya sido posible durante ciento ochenta (180) días. El despido por esta causa no podrá efectuarse sino al vencimiento de dicho lapso y no exime al empleador de las prestaciones e indemnizaciones legales y convencionales derivadas de la enfermedad. (CST, 2020, art. 62 párr. 1-15).
                 .col-lg-4
                   figure
                     img(src="@/assets/curso/tema1/img26.png", alt="", style="width: 400px").m-auto
